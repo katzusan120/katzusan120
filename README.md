@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./d49a3adb758c44c1222c02bba4c729fc.jpg">
-  <h3><a href="https://t.me/katzu_san">Why do humans die?</a></h3>
+  <h3>Why do humans die?</h3>
 </div>
 
 <!--
