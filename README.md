@@ -1,4 +1,7 @@
-![](./TN_xt7.png "Why do humans die?")
+<div align="center">
+  <img src="./d49a3adb758c44c1222c02bba4c729fc.jpg">
+  <h3><a href="https://t.me/katzu_san">Why do humans die?</a></h3>
+</div>
 
 <!--
 **katzusan120/katzusan120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
