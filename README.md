@@ -1,4 +1,4 @@
-![](./d49a3adb758c44c1222c02bba4c729fc.jpg)
+![](./TN_xt7.png "Why do humans die?")
 
 <!--
 **katzusan120/katzusan120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
