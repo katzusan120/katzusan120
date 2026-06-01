@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./d49a3adb758c44c1222c02bba4c729fc.jpg">
-  <h3>$\text{\color{#767DB4}Why do humans die?}$</h3>
+  <h2>$\text{\color{#767DB4}Why do humans die?}$</h2>
 </div>
 
 <!--
